@@ -1,0 +1,9 @@
+{
+  "name": "nexus",
+  "version": "0.1",
+  "description": "knowledge base",
+  "main": "index.html",
+  "repository": "https://github.com/SB-Jr/SB-Jr.github.io",
+  "author": "SB-Jr <shrijitbasak@gmail.com>",
+  "license": "GPLv3"
+}
